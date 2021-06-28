@@ -64,3 +64,6 @@ The relu activation was added for layers 1 and 2 was used as they had the highes
 Neurons in the hidden layers were reassigned several times starting with relatively small numbers (15, 7) to progressively higher (85,50) with out seeing an improvement in accuracy.
 
 # Summary
+
+- The model does not reach the target of 75% accuracy and hits a limit of 73% accuracy with few optimization efforts.
+- Random Forest Classifier can be used to solve the classification issue because we are in a binary classification situation.
